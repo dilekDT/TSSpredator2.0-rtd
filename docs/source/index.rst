@@ -8,6 +8,7 @@ and offers a *simple* and *intuitive* API. Hallo
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
+See :ref:`reademption`for preprocessing ang mapping.
 
 .. note::
 
