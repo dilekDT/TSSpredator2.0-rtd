@@ -21,4 +21,3 @@ Contents
 
    usage
    api
-   example
